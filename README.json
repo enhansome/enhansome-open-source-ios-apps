@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T07:12:24Z",
+            "last_commit": "2026-08-13T13:22:41Z",
             "owner": "videolan",
             "repo": "vlc",
-            "stars": 19302
+            "stars": 19306
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T03:47:05Z",
+            "last_commit": "2026-08-13T07:36:30Z",
             "owner": "Provenance-Emu",
             "repo": "Provenance",
-            "stars": 6349
+            "stars": 6348
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-12T23:00:23Z",
             "owner": "jellyfin",
             "repo": "Swiftfin",
-            "stars": 4082
+            "stars": 4083
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2025-10-09T02:56:42Z",
             "owner": "moonlight-stream",
             "repo": "moonlight-ios",
-            "stars": 1629
+            "stars": 1631
           }
         },
         {
@@ -278,7 +278,7 @@
             "last_commit": "2022-08-27T20:57:53Z",
             "owner": "kuglee",
             "repo": "TermiWatch",
-            "stars": 2269
+            "stars": 2267
           }
         },
         {
@@ -292,7 +292,7 @@
             "last_commit": "2020-10-01T13:21:44Z",
             "owner": "Dimillian",
             "repo": "SwiftHN",
-            "stars": 1742
+            "stars": 1741
           }
         },
         {
@@ -331,10 +331,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T19:59:00Z",
+            "last_commit": "2026-08-13T11:59:57Z",
             "owner": "nightscout",
             "repo": "nightguard",
-            "stars": 281
+            "stars": 280
           }
         },
         {
@@ -348,7 +348,7 @@
             "last_commit": "2024-11-20T00:56:41Z",
             "owner": "bither",
             "repo": "bither-ios",
-            "stars": 274
+            "stars": 273
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2021-04-04T22:58:07Z",
             "owner": "thomaspaulmann",
             "repo": "HeartControl",
-            "stars": 201
+            "stars": 200
           }
         },
         {
@@ -432,7 +432,7 @@
             "last_commit": "2021-06-22T17:11:55Z",
             "owner": "stevenselcuk",
             "repo": "Pomosh-iOS-watchOS",
-            "stars": 98
+            "stars": 96
           }
         },
         {
@@ -488,7 +488,7 @@
             "last_commit": "2024-06-26T07:44:38Z",
             "owner": "JohnWong",
             "repo": "bus-today",
-            "stars": 78
+            "stars": 77
           }
         },
         {
@@ -502,7 +502,7 @@
             "last_commit": "2023-10-17T13:41:36Z",
             "owner": "elkiwy",
             "repo": "KHabit",
-            "stars": 65
+            "stars": 64
           }
         },
         {
@@ -572,7 +572,7 @@
             "last_commit": "2024-02-15T04:49:06Z",
             "owner": "JohnYezub",
             "repo": "NewsFeed_SwiftUI_MVVM",
-            "stars": 16
+            "stars": 15
           }
         },
         {
@@ -603,10 +603,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-13T03:58:26Z",
+            "last_commit": "2026-08-13T13:59:58Z",
             "owner": "chromium",
             "repo": "chromium",
-            "stars": 24494
+            "stars": 24500
           }
         },
         {
@@ -617,7 +617,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-13T00:31:29Z",
+            "last_commit": "2026-08-13T13:48:52Z",
             "owner": "mozilla-mobile",
             "repo": "firefox-ios",
             "stars": 13021
@@ -634,7 +634,7 @@
             "last_commit": "2026-08-11T16:26:21Z",
             "owner": "OnionBrowser",
             "repo": "OnionBrowser",
-            "stars": 2648
+            "stars": 2649
           }
         },
         {
@@ -645,10 +645,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-13T01:43:02Z",
+            "last_commit": "2026-08-13T14:00:21Z",
             "owner": "minh-ton",
             "repo": "reynard-browser",
-            "stars": 1446
+            "stars": 1452
           }
         },
         {
@@ -682,7 +682,7 @@
             "last_commit": "2021-10-03T16:47:54Z",
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5210
+            "stars": 5207
           }
         },
         {
@@ -972,7 +972,7 @@
             "last_commit": "2023-06-09T07:13:02Z",
             "owner": "austinzheng",
             "repo": "swift-2048",
-            "stars": 3126
+            "stars": 3127
           }
         },
         {
@@ -1014,7 +1014,7 @@
             "last_commit": "2026-01-02T13:20:09Z",
             "owner": "saulsharma",
             "repo": "netflix-ui",
-            "stars": 1702
+            "stars": 1703
           }
         },
         {
@@ -1241,10 +1241,10 @@
           "repo_info": {
             "archived": false,
             "language": "Haskell",
-            "last_commit": "2026-08-12T22:42:06Z",
+            "last_commit": "2026-08-13T12:08:05Z",
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19248
+            "stars": 19250
           }
         },
         {
@@ -1272,7 +1272,7 @@
             "last_commit": "2026-07-21T04:34:53Z",
             "owner": "TelegramMessenger",
             "repo": "Telegram-iOS",
-            "stars": 8838
+            "stars": 8843
           }
         },
         {
@@ -1283,10 +1283,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T16:02:32Z",
+            "last_commit": "2026-08-13T13:55:04Z",
             "owner": "tutao",
             "repo": "tutanota",
-            "stars": 7849
+            "stars": 7852
           }
         },
         {
@@ -1339,10 +1339,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-12T21:36:01Z",
+            "last_commit": "2026-08-13T14:03:20Z",
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3047
+            "stars": 3048
           }
         },
         {
@@ -1353,10 +1353,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:12:02Z",
+            "last_commit": "2026-08-13T13:19:06Z",
             "owner": "mattermost",
             "repo": "mattermost-mobile",
-            "stars": 2708
+            "stars": 2709
           }
         },
         {
@@ -1370,7 +1370,7 @@
             "last_commit": "2026-06-23T11:11:31Z",
             "owner": "element-hq",
             "repo": "element-ios",
-            "stars": 1840
+            "stars": 1839
           }
         },
         {
@@ -1437,10 +1437,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T12:46:06Z",
+            "last_commit": "2026-08-13T12:36:39Z",
             "owner": "chatwoot",
             "repo": "chatwoot-mobile-app",
-            "stars": 1013
+            "stars": 1014
           }
         },
         {
@@ -1451,7 +1451,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T23:44:40Z",
+            "last_commit": "2026-08-13T13:25:20Z",
             "owner": "element-hq",
             "repo": "element-x-ios",
             "stars": 918
@@ -1510,7 +1510,7 @@
             "last_commit": "2026-07-29T13:35:07Z",
             "owner": "Swiftgram",
             "repo": "Telegram-iOS",
-            "stars": 550
+            "stars": 551
           }
         },
         {
@@ -1633,7 +1633,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T15:47:02Z",
+            "last_commit": "2026-08-13T14:05:19Z",
             "owner": "wireapp",
             "repo": "wire-ios",
             "stars": 166
@@ -1765,10 +1765,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:00:03Z",
+            "last_commit": "2026-08-13T13:59:47Z",
             "owner": "expo",
             "repo": "expo",
-            "stars": 51568
+            "stars": 51576
           }
         },
         {
@@ -1782,7 +1782,7 @@
             "last_commit": "2026-08-05T07:54:18Z",
             "owner": "utmapp",
             "repo": "UTM",
-            "stars": 34985
+            "stars": 34991
           }
         },
         {
@@ -1796,7 +1796,7 @@
             "last_commit": "2026-07-27T07:29:21Z",
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20301
+            "stars": 20305
           }
         },
         {
@@ -1810,7 +1810,7 @@
             "last_commit": "2026-07-20T07:30:29Z",
             "owner": "Finb",
             "repo": "Bark",
-            "stars": 8895
+            "stars": 8896
           }
         },
         {
@@ -1838,7 +1838,7 @@
             "last_commit": "2026-07-07T19:34:55Z",
             "owner": "gluonfield",
             "repo": "enchanted",
-            "stars": 5985
+            "stars": 5986
           }
         },
         {
@@ -1866,7 +1866,7 @@
             "last_commit": "2026-07-24T11:13:03Z",
             "owner": "claration",
             "repo": "Feather",
-            "stars": 4511
+            "stars": 4513
           }
         },
         {
@@ -2194,7 +2194,7 @@
             "last_commit": "2026-07-27T00:05:17Z",
             "owner": "git-up",
             "repo": "GitUp",
-            "stars": 12096
+            "stars": 12095
           }
         },
         {
@@ -2382,7 +2382,7 @@
             "last_commit": "2026-07-02T13:39:53Z",
             "owner": "holzschu",
             "repo": "a-shell",
-            "stars": 3865
+            "stars": 3866
           }
         },
         {
@@ -2730,7 +2730,7 @@
             "last_commit": "2026-07-27T07:29:21Z",
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20301
+            "stars": 20305
           }
         },
         {
@@ -2741,10 +2741,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T22:37:27Z",
+            "last_commit": "2026-08-13T12:22:19Z",
             "owner": "hrydgard",
             "repo": "ppsspp",
-            "stars": 14248
+            "stars": 14251
           }
         },
         {
@@ -2755,7 +2755,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T03:38:29Z",
+            "last_commit": "2026-08-13T12:13:43Z",
             "owner": "libretro",
             "repo": "RetroArch",
             "stars": 13510
@@ -2769,10 +2769,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T03:47:05Z",
+            "last_commit": "2026-08-13T07:36:30Z",
             "owner": "Provenance-Emu",
             "repo": "Provenance",
-            "stars": 6349
+            "stars": 6348
           }
         },
         {
@@ -2972,7 +2972,7 @@
             "last_commit": "2026-07-26T21:10:57Z",
             "owner": "oblador",
             "repo": "hush",
-            "stars": 3686
+            "stars": 3684
           }
         },
         {
@@ -3014,7 +3014,7 @@
             "last_commit": "2026-08-11T19:31:53Z",
             "owner": "rocketshipapps",
             "repo": "adblockfast",
-            "stars": 778
+            "stars": 779
           }
         },
         {
@@ -3025,7 +3025,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T15:11:54Z",
+            "last_commit": "2026-08-13T12:50:55Z",
             "owner": "pia-foss",
             "repo": "mobile-ios",
             "stars": 350
@@ -3194,7 +3194,7 @@
             "last_commit": "2024-06-26T07:44:38Z",
             "owner": "JohnWong",
             "repo": "bus-today",
-            "stars": 78
+            "stars": 77
           }
         },
         {
@@ -3298,7 +3298,7 @@
             "last_commit": "2024-02-15T04:49:06Z",
             "owner": "JohnYezub",
             "repo": "NewsFeed_SwiftUI_MVVM",
-            "stars": 16
+            "stars": 15
           }
         },
         {
@@ -3329,10 +3329,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T01:31:25Z",
+            "last_commit": "2026-08-13T13:59:31Z",
             "owner": "localsend",
             "repo": "localsend",
-            "stars": 87916
+            "stars": 88167
           }
         },
         {
@@ -3346,7 +3346,7 @@
             "last_commit": "2026-07-31T06:57:15Z",
             "owner": "onionshare",
             "repo": "onionshare",
-            "stars": 7059
+            "stars": 7056
           }
         },
         {
@@ -3357,10 +3357,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-13T03:32:49Z",
+            "last_commit": "2026-08-13T09:48:42Z",
             "owner": "nextcloud",
             "repo": "ios",
-            "stars": 2477
+            "stars": 2478
           }
         },
         {
@@ -3441,7 +3441,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T14:24:57Z",
+            "last_commit": "2026-08-13T09:36:47Z",
             "owner": "Infomaniak",
             "repo": "ios-kDrive",
             "stars": 84
@@ -3475,10 +3475,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-12T12:27:02Z",
+            "last_commit": "2026-08-13T13:04:25Z",
             "owner": "TNT-Likely",
             "repo": "BeeCount",
-            "stars": 2093
+            "stars": 2094
           }
         },
         {
@@ -3705,7 +3705,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T10:54:26Z",
+            "last_commit": "2026-08-13T11:15:09Z",
             "owner": "horizontalsystems",
             "repo": "unstoppable-wallet-ios",
             "stars": 899
@@ -3750,7 +3750,7 @@
             "last_commit": "2024-11-20T00:56:41Z",
             "owner": "bither",
             "repo": "bither-ios",
-            "stars": 274
+            "stars": 273
           }
         },
         {
@@ -3812,7 +3812,7 @@
             "last_commit": "2026-08-12T18:12:10Z",
             "owner": "Anuken",
             "repo": "Mindustry",
-            "stars": 28590
+            "stars": 28591
           }
         },
         {
@@ -3823,10 +3823,10 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T09:27:51Z",
+            "last_commit": "2026-08-13T09:58:32Z",
             "owner": "ppy",
             "repo": "osu",
-            "stars": 18854
+            "stars": 18858
           }
         },
         {
@@ -3854,7 +3854,7 @@
             "last_commit": "2023-06-09T07:13:02Z",
             "owner": "austinzheng",
             "repo": "swift-2048",
-            "stars": 3126
+            "stars": 3127
           }
         },
         {
@@ -3868,7 +3868,7 @@
             "last_commit": "2025-10-09T02:56:42Z",
             "owner": "moonlight-stream",
             "repo": "moonlight-ios",
-            "stars": 1629
+            "stars": 1631
           }
         },
         {
@@ -4527,10 +4527,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-10T18:54:26Z",
+            "last_commit": "2026-08-13T09:01:31Z",
             "owner": "simonoppowa",
             "repo": "OpenNutriTracker",
-            "stars": 2315
+            "stars": 2320
           }
         },
         {
@@ -4555,7 +4555,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-11T17:22:54Z",
+            "last_commit": "2026-08-13T11:51:42Z",
             "owner": "openfoodfacts",
             "repo": "smooth-app",
             "stars": 1398
@@ -4583,10 +4583,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T19:59:00Z",
+            "last_commit": "2026-08-13T11:59:57Z",
             "owner": "nightscout",
             "repo": "nightguard",
-            "stars": 281
+            "stars": 280
           }
         },
         {
@@ -4793,7 +4793,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T08:37:54Z",
+            "last_commit": "2026-08-13T13:03:10Z",
             "owner": "marcusraitner",
             "repo": "pulse",
             "stars": 15
@@ -4807,7 +4807,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-08-13T01:14:55Z",
+            "last_commit": "2026-08-13T08:03:27Z",
             "owner": "intrepidkarthi",
             "repo": "dailyvox",
             "stars": 14
@@ -5085,7 +5085,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-06T18:09:59Z",
+            "last_commit": "2026-08-13T13:29:15Z",
             "owner": "meditohq",
             "repo": "medito-app",
             "stars": 1299
@@ -5113,10 +5113,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T03:02:43Z",
+            "last_commit": "2026-08-13T13:47:59Z",
             "owner": "cagnulein",
             "repo": "qdomyos-zwift",
-            "stars": 829
+            "stars": 830
           }
         },
         {
@@ -5222,7 +5222,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T22:10:25Z",
+            "last_commit": "2026-08-13T13:51:27Z",
             "owner": "home-assistant",
             "repo": "iOS",
             "stars": 2298
@@ -5256,10 +5256,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T01:58:57Z",
+            "last_commit": "2026-08-13T13:59:58Z",
             "owner": "organicmaps",
             "repo": "organicmaps",
-            "stars": 15074
+            "stars": 15078
           }
         },
         {
@@ -5270,7 +5270,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T19:38:59Z",
+            "last_commit": "2026-08-13T13:56:30Z",
             "owner": "osmandapp",
             "repo": "OsmAnd",
             "stars": 5901
@@ -5528,10 +5528,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:27:40Z",
+            "last_commit": "2026-08-13T11:20:11Z",
             "owner": "readest",
             "repo": "readest",
-            "stars": 23355
+            "stars": 23371
           }
         },
         {
@@ -5556,10 +5556,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T15:04:56Z",
+            "last_commit": "2026-08-13T12:33:09Z",
             "owner": "ArtifexSoftware",
             "repo": "mupdf",
-            "stars": 2913
+            "stars": 2914
           }
         },
         {
@@ -5584,7 +5584,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T20:38:41Z",
+            "last_commit": "2026-08-13T13:45:02Z",
             "owner": "Automattic",
             "repo": "pocket-casts-ios",
             "stars": 1812
@@ -5691,7 +5691,7 @@
             "last_commit": "2026-07-26T06:33:02Z",
             "owner": "AudioKit",
             "repo": "AudioKit",
-            "stars": 11432
+            "stars": 11433
           }
         },
         {
@@ -5907,7 +5907,7 @@
             "last_commit": "2026-08-11T11:41:28Z",
             "owner": "EhPanda-Team",
             "repo": "EhPanda",
-            "stars": 3936
+            "stars": 3938
           }
         },
         {
@@ -5918,7 +5918,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T21:59:33Z",
+            "last_commit": "2026-08-13T13:30:32Z",
             "owner": "artsy",
             "repo": "eigen",
             "stars": 3775
@@ -5974,7 +5974,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-09T21:44:03Z",
+            "last_commit": "2026-08-13T08:08:03Z",
             "owner": "kiwix",
             "repo": "kiwix-apple",
             "stars": 768
@@ -6650,10 +6650,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T07:12:24Z",
+            "last_commit": "2026-08-13T13:22:41Z",
             "owner": "videolan",
             "repo": "vlc",
-            "stars": 19302
+            "stars": 19306
           }
         },
         {
@@ -6678,7 +6678,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T19:56:31Z",
+            "last_commit": "2026-08-13T12:20:21Z",
             "owner": "eerimoq",
             "repo": "moblin",
             "stars": 716
@@ -6695,7 +6695,7 @@
             "last_commit": "2026-08-12T00:34:58Z",
             "owner": "verback2308",
             "repo": "Opaline",
-            "stars": 196
+            "stars": 197
           }
         },
         {
@@ -6903,7 +6903,7 @@
             "last_commit": "2020-10-01T13:21:44Z",
             "owner": "Dimillian",
             "repo": "SwiftHN",
-            "stars": 1742
+            "stars": 1741
           }
         },
         {
@@ -6917,7 +6917,7 @@
             "last_commit": "2026-08-10T21:28:38Z",
             "owner": "Livinglist",
             "repo": "Hacki",
-            "stars": 1585
+            "stars": 1587
           }
         },
         {
@@ -7161,7 +7161,7 @@
             "last_commit": "2024-02-15T04:49:06Z",
             "owner": "JohnYezub",
             "repo": "NewsFeed_SwiftUI_MVVM",
-            "stars": 16
+            "stars": 15
           }
         }
       ],
@@ -7181,7 +7181,7 @@
             "last_commit": "2026-08-12T15:32:32Z",
             "owner": "Ranchero-Software",
             "repo": "NetNewsWire",
-            "stars": 10281
+            "stars": 10282
           }
         },
         {
@@ -7209,7 +7209,7 @@
             "last_commit": "2026-08-11T19:49:24Z",
             "owner": "prof18",
             "repo": "feed-flow",
-            "stars": 1147
+            "stars": 1148
           }
         },
         {
@@ -7240,10 +7240,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-13T03:58:26Z",
+            "last_commit": "2026-08-13T13:59:58Z",
             "owner": "chromium",
             "repo": "chromium",
-            "stars": 24494
+            "stars": 24500
           }
         },
         {
@@ -7268,10 +7268,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-12T07:12:24Z",
+            "last_commit": "2026-08-13T13:22:41Z",
             "owner": "videolan",
             "repo": "vlc",
-            "stars": 19302
+            "stars": 19306
           }
         },
         {
@@ -7282,10 +7282,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:00:26Z",
+            "last_commit": "2026-08-13T13:52:39Z",
             "owner": "bluesky-social",
             "repo": "social-app",
-            "stars": 18205
+            "stars": 18206
           }
         },
         {
@@ -7296,7 +7296,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-13T00:31:29Z",
+            "last_commit": "2026-08-13T13:48:52Z",
             "owner": "mozilla-mobile",
             "repo": "firefox-ios",
             "stars": 13021
@@ -7327,7 +7327,7 @@
             "last_commit": "2026-08-12T20:17:25Z",
             "owner": "kickstarter",
             "repo": "ios-oss",
-            "stars": 8670
+            "stars": 8671
           }
         },
         {
@@ -7352,7 +7352,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-13T00:54:57Z",
+            "last_commit": "2026-08-13T06:30:55Z",
             "owner": "wordpress-mobile",
             "repo": "WordPress-iOS",
             "stars": 3907
@@ -7366,10 +7366,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T23:35:30Z",
+            "last_commit": "2026-08-13T13:54:48Z",
             "owner": "wikimedia",
             "repo": "wikipedia-ios",
-            "stars": 3433
+            "stars": 3434
           }
         },
         {
@@ -7380,10 +7380,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-13T03:32:49Z",
+            "last_commit": "2026-08-13T09:48:42Z",
             "owner": "nextcloud",
             "repo": "ios",
-            "stars": 2477
+            "stars": 2478
           }
         },
         {
@@ -7394,7 +7394,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T04:54:26Z",
+            "last_commit": "2026-08-13T04:54:54Z",
             "owner": "mastodon",
             "repo": "mastodon-ios",
             "stars": 2268
@@ -7464,10 +7464,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-13T01:40:07Z",
+            "last_commit": "2026-08-13T14:01:15Z",
             "owner": "duckduckgo",
             "repo": "apple-browsers",
-            "stars": 247
+            "stars": 248
           }
         },
         {
@@ -7492,7 +7492,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T15:47:02Z",
+            "last_commit": "2026-08-13T14:05:19Z",
             "owner": "wireapp",
             "repo": "wire-ios",
             "stars": 166
@@ -7506,7 +7506,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T14:24:57Z",
+            "last_commit": "2026-08-13T09:36:47Z",
             "owner": "Infomaniak",
             "repo": "ios-kDrive",
             "stars": 84
@@ -7675,7 +7675,7 @@
             "last_commit": "2023-05-24T12:40:19Z",
             "owner": "Lax",
             "repo": "Learn-iOS-Swift-by-Examples",
-            "stars": 3776
+            "stars": 3775
           }
         },
         {
@@ -7759,7 +7759,7 @@
             "last_commit": "2026-07-10T23:44:52Z",
             "owner": "kudoleh",
             "repo": "iOS-Modular-Architecture",
-            "stars": 842
+            "stars": 843
           }
         },
         {
@@ -8185,7 +8185,7 @@
             "last_commit": "2026-08-12T17:38:52Z",
             "owner": "WezSieTato",
             "repo": "ScanNow",
-            "stars": 66
+            "stars": 65
           }
         },
         {
@@ -8230,7 +8230,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T03:44:31Z",
+            "last_commit": "2026-08-13T14:01:59Z",
             "owner": "keybase",
             "repo": "client",
             "stars": 9241
@@ -8247,7 +8247,7 @@
             "last_commit": "2026-08-04T12:08:40Z",
             "owner": "OutlineFoundation",
             "repo": "outline-apps",
-            "stars": 9229
+            "stars": 9230
           }
         },
         {
@@ -8258,10 +8258,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T16:02:32Z",
+            "last_commit": "2026-08-13T13:55:04Z",
             "owner": "tutao",
             "repo": "tutanota",
-            "stars": 7849
+            "stars": 7852
           }
         },
         {
@@ -8272,10 +8272,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T03:40:07Z",
+            "last_commit": "2026-08-13T13:59:10Z",
             "owner": "mullvad",
             "repo": "mullvadvpn-app",
-            "stars": 7460
+            "stars": 7461
           }
         },
         {
@@ -8496,6 +8496,20 @@
       "items": [
         {
           "node_type": "item",
+          "title": "AliasVault",
+          "description": "Privacy-first password manager with built-in email aliasing",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T13:53:44Z",
+            "owner": "aliasvault",
+            "repo": "aliasvault",
+            "stars": 3016
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Padlock",
           "description": "A minimalist open source password manager",
           "children": [],
@@ -8519,7 +8533,7 @@
             "last_commit": "2026-05-23T20:38:25Z",
             "owner": "keepassium",
             "repo": "KeePassium",
-            "stars": 1663
+            "stars": 1664
           }
         },
         {
@@ -8600,10 +8614,10 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T21:55:09Z",
+            "last_commit": "2026-08-13T14:04:59Z",
             "owner": "bitwarden",
             "repo": "ios",
-            "stars": 661
+            "stars": 662
           }
         },
         {
@@ -8662,7 +8676,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T17:35:30Z",
+            "last_commit": "2026-08-13T13:41:56Z",
             "owner": "woocommerce",
             "repo": "woocommerce-ios",
             "stars": 360
@@ -8696,10 +8710,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:00:26Z",
+            "last_commit": "2026-08-13T13:52:39Z",
             "owner": "bluesky-social",
             "repo": "social-app",
-            "stars": 18205
+            "stars": 18206
           }
         },
         {
@@ -8820,10 +8834,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T02:52:55Z",
+            "last_commit": "2026-08-13T11:30:57Z",
             "owner": "FriesI23",
             "repo": "mhabit",
-            "stars": 1450
+            "stars": 1451
           }
         },
         {
@@ -8975,7 +8989,7 @@
             "last_commit": "2026-08-12T20:20:59Z",
             "owner": "laurent22",
             "repo": "joplin",
-            "stars": 55925
+            "stars": 55929
           }
         },
         {
@@ -8986,10 +9000,10 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-13T02:08:33Z",
+            "last_commit": "2026-08-13T08:33:16Z",
             "owner": "logseq",
             "repo": "logseq",
-            "stars": 44423
+            "stars": 44427
           }
         },
         {
@@ -9000,10 +9014,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:36:15Z",
+            "last_commit": "2026-08-13T10:51:19Z",
             "owner": "streetwriters",
             "repo": "notesnook",
-            "stars": 14401
+            "stars": 14403
           }
         },
         {
@@ -9017,7 +9031,7 @@
             "last_commit": "2026-08-12T04:24:41Z",
             "owner": "codexu",
             "repo": "note-gen",
-            "stars": 12610
+            "stars": 12612
           }
         },
         {
@@ -9045,7 +9059,7 @@
             "last_commit": "2026-08-11T19:21:42Z",
             "owner": "standardnotes",
             "repo": "app",
-            "stars": 6581
+            "stars": 6582
           }
         },
         {
@@ -9177,7 +9191,7 @@
             "last_commit": "2021-06-22T17:11:55Z",
             "owner": "stevenselcuk",
             "repo": "Pomosh-iOS-watchOS",
-            "stars": 98
+            "stars": 96
           }
         },
         {
@@ -9245,7 +9259,7 @@
             "last_commit": "2023-09-04T03:33:35Z",
             "owner": "JakeLin",
             "repo": "SwiftLanguageWeather",
-            "stars": 5245
+            "stars": 5246
           }
         },
         {
@@ -9301,7 +9315,7 @@
             "last_commit": "2026-08-11T12:20:02Z",
             "owner": "ossappscollective",
             "repo": "oss-weather",
-            "stars": 437
+            "stars": 439
           }
         },
         {
@@ -9312,7 +9326,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T16:23:25Z",
+            "last_commit": "2026-08-13T13:38:53Z",
             "owner": "strumswell",
             "repo": "oscar-weather",
             "stars": 47
@@ -9410,7 +9424,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-12T04:52:22Z",
+            "last_commit": "2026-08-13T04:56:58Z",
             "owner": "saxobroko",
             "repo": "SaxWeather",
             "stars": 8
@@ -9444,10 +9458,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T04:04:14Z",
+            "last_commit": "2026-08-13T14:04:43Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 386105
+            "stars": 386166
           }
         },
         {
@@ -9461,7 +9475,7 @@
             "last_commit": "2026-07-14T19:06:27Z",
             "owner": "altstoreio",
             "repo": "AltStore",
-            "stars": 14164
+            "stars": 14169
           }
         },
         {
@@ -9472,10 +9486,10 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-07-30T14:08:09Z",
+            "last_commit": "2026-08-13T13:26:29Z",
             "owner": "FreeRDP",
             "repo": "FreeRDP",
-            "stars": 13548
+            "stars": 13550
           }
         },
         {
@@ -9500,7 +9514,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-02T11:40:14Z",
+            "last_commit": "2026-08-13T13:10:49Z",
             "owner": "roryclear",
             "repo": "clearcam",
             "stars": 974
@@ -9518,6 +9532,20 @@
             "owner": "DerekSelander",
             "repo": "yacd",
             "stars": 701
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kotoba",
+          "description": "Quickly search the built-in iOS dictionary to see definitions of words",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2025-08-20T10:46:58Z",
+            "owner": "willhains",
+            "repo": "Kotoba",
+            "stars": 690
           }
         },
         {
@@ -10357,7 +10385,7 @@
           "repo_info": {
             "archived": false,
             "language": "Swift",
-            "last_commit": "2026-08-04T22:53:31Z",
+            "last_commit": "2026-08-13T04:57:55Z",
             "owner": "firebase",
             "repo": "quickstart-ios",
             "stars": 3024
@@ -10377,10 +10405,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:26:13Z",
+            "last_commit": "2026-08-13T14:04:16Z",
             "owner": "immich-app",
             "repo": "immich",
-            "stars": 110330
+            "stars": 110381
           }
         },
         {
@@ -10394,7 +10422,7 @@
             "last_commit": "2026-08-04T03:58:12Z",
             "owner": "CarGuo",
             "repo": "gsy_github_app_flutter",
-            "stars": 15476
+            "stars": 15477
           }
         },
         {
@@ -10478,7 +10506,7 @@
             "last_commit": "2026-08-10T21:28:38Z",
             "owner": "Livinglist",
             "repo": "Hacki",
-            "stars": 1585
+            "stars": 1587
           }
         },
         {
@@ -10489,10 +10517,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-13T02:52:55Z",
+            "last_commit": "2026-08-13T11:30:57Z",
             "owner": "FriesI23",
             "repo": "mhabit",
-            "stars": 1450
+            "stars": 1451
           }
         },
         {
@@ -10517,7 +10545,7 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-06T18:09:59Z",
+            "last_commit": "2026-08-13T13:29:15Z",
             "owner": "meditohq",
             "repo": "medito-app",
             "stars": 1299
@@ -10534,7 +10562,7 @@
             "last_commit": "2026-02-12T14:45:30Z",
             "owner": "burhanrashid52",
             "repo": "WhatTodo",
-            "stars": 1266
+            "stars": 1265
           }
         },
         {
@@ -10548,7 +10576,7 @@
             "last_commit": "2023-03-07T03:04:30Z",
             "owner": "trentpiercy",
             "repo": "trace",
-            "stars": 1146
+            "stars": 1145
           }
         },
         {
@@ -10590,7 +10618,7 @@
             "last_commit": "2024-03-28T22:03:32Z",
             "owner": "jesusrp98",
             "repo": "spacex-go",
-            "stars": 923
+            "stars": 922
           }
         },
         {
@@ -10632,7 +10660,7 @@
             "last_commit": "2026-08-11T07:24:04Z",
             "owner": "amake",
             "repo": "orgro",
-            "stars": 723
+            "stars": 725
           }
         },
         {
@@ -10660,7 +10688,7 @@
             "last_commit": "2021-08-01T05:36:59Z",
             "owner": "kalismeras61",
             "repo": "flutter_wallet_ui",
-            "stars": 559
+            "stars": 558
           }
         },
         {
@@ -11106,7 +11134,7 @@
             "last_commit": "2025-07-14T17:10:30Z",
             "owner": "nalexn",
             "repo": "clean-architecture-swiftui",
-            "stars": 6590
+            "stars": 6589
           }
         },
         {
@@ -11148,7 +11176,7 @@
             "last_commit": "2023-08-18T13:14:11Z",
             "owner": "apple",
             "repo": "sample-food-truck",
-            "stars": 1854
+            "stars": 1853
           }
         },
         {
@@ -11361,7 +11389,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T02:45:59Z",
+            "last_commit": "2026-08-13T14:04:29Z",
             "owner": "react",
             "repo": "react-native",
             "stars": 126339
@@ -11392,7 +11420,7 @@
             "last_commit": "2023-03-04T15:48:58Z",
             "owner": "cyrildiagne",
             "repo": "ar-cutpaste",
-            "stars": 14573
+            "stars": 14572
           }
         },
         {
@@ -11403,7 +11431,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T03:44:31Z",
+            "last_commit": "2026-08-13T14:01:59Z",
             "owner": "keybase",
             "repo": "client",
             "stars": 9241
@@ -11420,7 +11448,7 @@
             "last_commit": "2021-10-03T16:47:54Z",
             "owner": "benoitvallon",
             "repo": "react-native-nw-react-calculator",
-            "stars": 5210
+            "stars": 5207
           }
         },
         {
@@ -11459,7 +11487,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T21:59:33Z",
+            "last_commit": "2026-08-13T13:30:32Z",
             "owner": "artsy",
             "repo": "eigen",
             "stars": 3775
@@ -11473,10 +11501,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T03:12:02Z",
+            "last_commit": "2026-08-13T13:19:06Z",
             "owner": "mattermost",
             "repo": "mattermost-mobile",
-            "stars": 2708
+            "stars": 2709
           }
         },
         {
@@ -11487,10 +11515,10 @@
           "repo_info": {
             "archived": false,
             "language": "Dart",
-            "last_commit": "2026-08-10T18:54:26Z",
+            "last_commit": "2026-08-13T09:01:31Z",
             "owner": "simonoppowa",
             "repo": "OpenNutriTracker",
-            "stars": 2315
+            "stars": 2320
           }
         },
         {
@@ -11571,10 +11599,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T12:46:06Z",
+            "last_commit": "2026-08-13T12:36:39Z",
             "owner": "chatwoot",
             "repo": "chatwoot-mobile-app",
-            "stars": 1013
+            "stars": 1014
           }
         },
         {
@@ -11922,7 +11950,7 @@
             "last_commit": "2025-07-14T17:10:30Z",
             "owner": "nalexn",
             "repo": "clean-architecture-swiftui",
-            "stars": 6590
+            "stars": 6589
           }
         },
         {
@@ -11964,7 +11992,7 @@
             "last_commit": "2026-02-01T17:49:15Z",
             "owner": "zzanehip",
             "repo": "The-OldOS-Project",
-            "stars": 3505
+            "stars": 3506
           }
         },
         {
@@ -12034,7 +12062,7 @@
             "last_commit": "2026-07-20T04:25:37Z",
             "owner": "mikelikesdesign",
             "repo": "SwiftUI-experiments",
-            "stars": 2059
+            "stars": 2060
           }
         },
         {
@@ -12048,7 +12076,7 @@
             "last_commit": "2023-08-18T13:14:11Z",
             "owner": "apple",
             "repo": "sample-food-truck",
-            "stars": 1854
+            "stars": 1853
           }
         },
         {
@@ -12104,7 +12132,7 @@
             "last_commit": "2023-03-08T13:52:26Z",
             "owner": "GetStream",
             "repo": "purposeful-ios-animations",
-            "stars": 918
+            "stars": 919
           }
         },
         {
@@ -13028,7 +13056,7 @@
             "last_commit": "2023-10-17T13:41:36Z",
             "owner": "elkiwy",
             "repo": "KHabit",
-            "stars": 65
+            "stars": 64
           }
         },
         {
@@ -13602,7 +13630,7 @@
             "last_commit": "2024-02-15T04:49:06Z",
             "owner": "JohnYezub",
             "repo": "NewsFeed_SwiftUI_MVVM",
-            "stars": 16
+            "stars": 15
           }
         },
         {
@@ -13863,10 +13891,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-12T18:53:30Z",
+            "last_commit": "2026-08-13T11:51:14Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51637
+            "stars": 51645
           }
         },
         {
@@ -13877,10 +13905,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-12T18:53:30Z",
+            "last_commit": "2026-08-13T11:51:14Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51637
+            "stars": 51645
           }
         },
         {
@@ -13891,10 +13919,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-12T18:53:30Z",
+            "last_commit": "2026-08-13T11:51:14Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51637
+            "stars": 51645
           }
         },
         {
@@ -13908,7 +13936,7 @@
             "last_commit": "2026-08-10T11:04:24Z",
             "owner": "iCHAIT",
             "repo": "awesome-macOS",
-            "stars": 19013
+            "stars": 19014
           }
         },
         {
@@ -13922,7 +13950,7 @@
             "last_commit": "2026-08-13T00:36:25Z",
             "owner": "pcqpcq",
             "repo": "open-source-android-apps",
-            "stars": 10446
+            "stars": 10447
           }
         },
         {
@@ -13949,9 +13977,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:04:05.920Z",
+    "last_updated": "2026-08-13T14:05:35.659Z",
     "original_repository": "dkhamsing/open-source-ios-apps",
-    "original_repository_sha": "a307f81a100dcfb91608ef4b93dd6fc4dea9c6d9",
+    "original_repository_sha": "dd85dbed8157beb30aeb4cd8ec13030f0f153163",
     "enhanced_repository": "enhansome/enhansome-open-source-ios-apps",
     "enhanced_repository_description": null,
     "title": "Awesome Open-Source iOS Apps with stars"
