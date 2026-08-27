@@ -12,10 +12,10 @@
             "archived": false,
             "id": 3299208,
             "language": "C",
-            "last_commit": "2026-08-26T13:37:01Z",
+            "last_commit": "2026-08-27T11:25:04Z",
             "owner": "videolan",
             "repo": "vlc",
-            "stars": 19437
+            "stars": 19446
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 12416862,
             "language": "C",
-            "last_commit": "2026-08-26T06:34:43Z",
+            "last_commit": "2026-08-26T23:36:36Z",
             "owner": "Provenance-Emu",
             "repo": "Provenance",
-            "stars": 6360
+            "stars": 6362
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 367480581,
             "language": "Swift",
-            "last_commit": "2026-08-24T23:13:52Z",
+            "last_commit": "2026-08-26T20:09:21Z",
             "owner": "jellyfin",
             "repo": "Swiftfin",
-            "stars": 4117
+            "stars": 4118
           }
         },
         {
@@ -65,7 +65,7 @@
                 "last_commit": "2026-08-12T13:01:12Z",
                 "owner": "yichengchen",
                 "repo": "ATV-Bilibili-demo",
-                "stars": 3124
+                "stars": 3125
               }
             }
           ],
@@ -76,7 +76,7 @@
             "last_commit": "2026-08-12T13:01:12Z",
             "owner": "yichengchen",
             "repo": "ATV-Bilibili-demo",
-            "stars": 3124
+            "stars": 3125
           }
         },
         {
@@ -96,7 +96,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -107,7 +107,7 @@
             "last_commit": "2025-10-09T02:56:42Z",
             "owner": "moonlight-stream",
             "repo": "moonlight-ios",
-            "stars": 1641
+            "stars": 1643
           }
         },
         {
@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -487,7 +487,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ]
@@ -509,7 +509,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ]
@@ -610,7 +610,7 @@
                 "archived": false,
                 "id": 58003045,
                 "language": "Swift",
-                "last_commit": "2026-08-24T19:48:52Z",
+                "last_commit": "2026-08-27T11:21:29Z",
                 "owner": "nightscout",
                 "repo": "nightguard",
                 "stars": 280
@@ -621,7 +621,7 @@
             "archived": false,
             "id": 58003045,
             "language": "Swift",
-            "last_commit": "2026-08-24T19:48:52Z",
+            "last_commit": "2026-08-27T11:21:29Z",
             "owner": "nightscout",
             "repo": "nightguard",
             "stars": 280
@@ -685,7 +685,7 @@
             "last_commit": "2024-08-16T16:08:36Z",
             "owner": "chanify",
             "repo": "chanify-ios",
-            "stars": 228
+            "stars": 229
           }
         },
         {
@@ -705,7 +705,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -798,7 +798,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -965,7 +965,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -1040,10 +1040,10 @@
             "archived": false,
             "id": 120360765,
             "language": null,
-            "last_commit": "2026-08-26T13:36:26Z",
+            "last_commit": "2026-08-27T11:49:39Z",
             "owner": "chromium",
             "repo": "chromium",
-            "stars": 24623
+            "stars": 24633
           }
         },
         {
@@ -1055,7 +1055,7 @@
             "archived": false,
             "id": 26133979,
             "language": "Swift",
-            "last_commit": "2026-08-26T13:15:30Z",
+            "last_commit": "2026-08-27T11:53:56Z",
             "owner": "mozilla-mobile",
             "repo": "firefox-ios",
             "stars": 13033
@@ -1085,10 +1085,10 @@
             "archived": false,
             "id": 1147071648,
             "language": "Swift",
-            "last_commit": "2026-08-26T05:39:24Z",
+            "last_commit": "2026-08-27T05:40:57Z",
             "owner": "minh-ton",
             "repo": "reynard-browser",
-            "stars": 1545
+            "stars": 1552
           }
         },
         {
@@ -1103,7 +1103,7 @@
             "last_commit": "2022-05-21T01:49:10Z",
             "owner": "snowhaze",
             "repo": "SnowHaze-iOS",
-            "stars": 174
+            "stars": 173
           }
         }
       ],
@@ -1129,7 +1129,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -1160,7 +1160,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -1535,7 +1535,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -1643,7 +1643,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -1669,7 +1669,7 @@
             "last_commit": "2025-11-28T08:36:59Z",
             "owner": "dopebase",
             "repo": "messenger-iOS-chat-swift-firestore",
-            "stars": 789
+            "stars": 788
           }
         },
         {
@@ -1780,7 +1780,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -1930,10 +1930,10 @@
             "archived": false,
             "id": 229407566,
             "language": "Haskell",
-            "last_commit": "2026-08-26T10:43:39Z",
+            "last_commit": "2026-08-27T10:45:53Z",
             "owner": "simplex-chat",
             "repo": "simplex-chat",
-            "stars": 19312
+            "stars": 19323
           }
         },
         {
@@ -1945,10 +1945,10 @@
             "archived": false,
             "id": 19429698,
             "language": "Swift",
-            "last_commit": "2026-08-20T19:32:18Z",
+            "last_commit": "2026-08-26T22:43:14Z",
             "owner": "signalapp",
             "repo": "Signal-iOS",
-            "stars": 12212
+            "stars": 12213
           }
         },
         {
@@ -1975,10 +1975,10 @@
             "archived": false,
             "id": 22344874,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:11:07Z",
+            "last_commit": "2026-08-27T11:44:34Z",
             "owner": "tutao",
             "repo": "tutanota",
-            "stars": 7873
+            "stars": 7876
           }
         },
         {
@@ -2020,10 +2020,10 @@
             "archived": false,
             "id": 665942673,
             "language": "Dart",
-            "last_commit": "2026-08-26T12:15:26Z",
+            "last_commit": "2026-08-27T08:58:25Z",
             "owner": "krille-chan",
             "repo": "fluffychat",
-            "stars": 3076
+            "stars": 3082
           }
         },
         {
@@ -2035,7 +2035,7 @@
             "archived": false,
             "id": 70265724,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T12:17:42Z",
+            "last_commit": "2026-08-27T11:55:37Z",
             "owner": "mattermost",
             "repo": "mattermost-mobile",
             "stars": 2713
@@ -2058,7 +2058,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -2142,10 +2142,10 @@
             "archived": false,
             "id": 919524655,
             "language": "Swift",
-            "last_commit": "2026-08-26T07:27:36Z",
+            "last_commit": "2026-08-26T21:28:23Z",
             "owner": "thunderbird",
             "repo": "thunderbird-ios",
-            "stars": 1151
+            "stars": 1153
           }
         },
         {
@@ -2165,7 +2165,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -2176,7 +2176,7 @@
             "last_commit": "2026-08-25T12:53:10Z",
             "owner": "chatwoot",
             "repo": "chatwoot-mobile-app",
-            "stars": 1028
+            "stars": 1030
           }
         },
         {
@@ -2188,10 +2188,10 @@
             "archived": false,
             "id": 458170812,
             "language": "Swift",
-            "last_commit": "2026-08-26T13:25:36Z",
+            "last_commit": "2026-08-27T11:55:42Z",
             "owner": "element-hq",
             "repo": "element-x-ios",
-            "stars": 929
+            "stars": 932
           }
         },
         {
@@ -2206,7 +2206,7 @@
             "last_commit": "2025-11-28T08:36:59Z",
             "owner": "dopebase",
             "repo": "messenger-iOS-chat-swift-firestore",
-            "stars": 789
+            "stars": 788
           }
         },
         {
@@ -2221,7 +2221,7 @@
             "last_commit": "2026-08-26T02:15:06Z",
             "owner": "monal-im",
             "repo": "Monal",
-            "stars": 666
+            "stars": 667
           }
         },
         {
@@ -2251,7 +2251,7 @@
             "last_commit": "2026-02-16T12:08:41Z",
             "owner": "niochat",
             "repo": "nio",
-            "stars": 559
+            "stars": 558
           }
         },
         {
@@ -2415,7 +2415,7 @@
             "archived": false,
             "id": 581121052,
             "language": "Swift",
-            "last_commit": "2026-08-26T12:33:22Z",
+            "last_commit": "2026-08-27T08:00:34Z",
             "owner": "wireapp",
             "repo": "wire-ios",
             "stars": 166
@@ -2484,7 +2484,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -2510,7 +2510,7 @@
             "last_commit": "2024-04-29T23:37:17Z",
             "owner": "appbrewery",
             "repo": "Flash-Chat-iOS13",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -2604,10 +2604,10 @@
             "archived": false,
             "id": 65750241,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:36:26Z",
+            "last_commit": "2026-08-27T11:55:47Z",
             "owner": "expo",
             "repo": "expo",
-            "stars": 51835
+            "stars": 51850
           }
         },
         {
@@ -2622,7 +2622,7 @@
             "last_commit": "2026-08-05T07:54:18Z",
             "owner": "utmapp",
             "repo": "UTM",
-            "stars": 35137
+            "stars": 35153
           }
         },
         {
@@ -2637,7 +2637,7 @@
             "last_commit": "2026-08-22T06:20:13Z",
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20366
+            "stars": 20371
           }
         },
         {
@@ -2652,7 +2652,7 @@
             "last_commit": "2026-08-18T02:21:13Z",
             "owner": "Finb",
             "repo": "Bark",
-            "stars": 8945
+            "stars": 8949
           }
         },
         {
@@ -2744,7 +2744,7 @@
             "last_commit": "2026-07-24T11:13:03Z",
             "owner": "claration",
             "repo": "Feather",
-            "stars": 4595
+            "stars": 4597
           }
         },
         {
@@ -2764,7 +2764,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -2790,7 +2790,7 @@
             "last_commit": "2026-08-25T19:37:05Z",
             "owner": "rudrankriyam",
             "repo": "Foundation-Models-Framework-Lab",
-            "stars": 1177
+            "stars": 1176
           }
         },
         {
@@ -2840,7 +2840,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -2901,7 +2901,7 @@
                 "last_commit": "2025-11-08T18:22:00Z",
                 "owner": "ndfred",
                 "repo": "iperf-ios",
-                "stars": 224
+                "stars": 225
               }
             }
           ],
@@ -2912,7 +2912,7 @@
             "last_commit": "2025-11-08T18:22:00Z",
             "owner": "ndfred",
             "repo": "iperf-ios",
-            "stars": 224
+            "stars": 225
           }
         },
         {
@@ -2942,7 +2942,7 @@
             "last_commit": "2026-08-15T03:15:18Z",
             "owner": "tls-inspector",
             "repo": "tls-inspector",
-            "stars": 196
+            "stars": 195
           }
         },
         {
@@ -3018,7 +3018,7 @@
             "last_commit": "2026-07-25T10:23:54Z",
             "owner": "matomo-org",
             "repo": "matomo-mobile-2",
-            "stars": 112
+            "stars": 113
           }
         },
         {
@@ -3155,7 +3155,7 @@
                 "last_commit": "2026-07-27T00:05:17Z",
                 "owner": "git-up",
                 "repo": "GitUp",
-                "stars": 12110
+                "stars": 12111
               }
             },
             {
@@ -3328,7 +3328,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -3422,7 +3422,7 @@
                 "last_commit": "2026-06-29T21:10:17Z",
                 "owner": "blinksh",
                 "repo": "blink",
-                "stars": 6912
+                "stars": 6911
               }
             },
             {
@@ -3437,7 +3437,7 @@
                 "last_commit": "2026-07-02T13:39:53Z",
                 "owner": "holzschu",
                 "repo": "a-shell",
-                "stars": 3884
+                "stars": 3885
               }
             },
             {
@@ -3449,10 +3449,10 @@
                 "archived": false,
                 "id": 177906917,
                 "language": "Swift",
-                "last_commit": "2026-08-25T20:38:57Z",
+                "last_commit": "2026-08-27T02:53:31Z",
                 "owner": "migueldeicaza",
                 "repo": "SwiftTerm",
-                "stars": 1667
+                "stars": 1670
               }
             },
             {
@@ -3472,7 +3472,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -3514,7 +3514,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -3525,7 +3525,7 @@
             "last_commit": "2025-08-20T10:46:58Z",
             "owner": "willhains",
             "repo": "Kotoba",
-            "stars": 696
+            "stars": 697
           }
         },
         {
@@ -3560,7 +3560,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -3572,6 +3572,21 @@
             "owner": "venkatasg",
             "repo": "DeTeXt",
             "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scribe - Language Keyboards",
+          "description": "Keyboards for language learners with translation, verb conjugation and more!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 412385182,
+            "language": "Swift",
+            "last_commit": "2026-08-26T22:25:29Z",
+            "owner": "scribe-org",
+            "repo": "Scribe-iOS",
+            "stars": 168
           }
         },
         {
@@ -3591,7 +3606,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -3603,21 +3618,6 @@
             "owner": "StepicOrg",
             "repo": "stepik-ios",
             "stars": 168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Scribe - Language Keyboards",
-          "description": "Keyboards for language learners with translation, verb conjugation and more!",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 412385182,
-            "language": "Swift",
-            "last_commit": "2026-08-25T21:49:39Z",
-            "owner": "scribe-org",
-            "repo": "Scribe-iOS",
-            "stars": 167
           }
         },
         {
@@ -3647,7 +3647,7 @@
             "last_commit": "2026-02-12T14:38:15Z",
             "owner": "Catrobat",
             "repo": "Catty",
-            "stars": 102
+            "stars": 103
           }
         },
         {
@@ -3667,7 +3667,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -3865,7 +3865,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -3927,7 +3927,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -3974,7 +3974,7 @@
             "last_commit": "2026-08-22T06:20:13Z",
             "owner": "ish-app",
             "repo": "ish",
-            "stars": 20366
+            "stars": 20371
           }
         },
         {
@@ -3986,10 +3986,10 @@
             "archived": false,
             "id": 6486826,
             "language": "C++",
-            "last_commit": "2026-08-26T06:14:16Z",
+            "last_commit": "2026-08-27T07:06:34Z",
             "owner": "hrydgard",
             "repo": "ppsspp",
-            "stars": 14306
+            "stars": 14311
           }
         },
         {
@@ -4009,7 +4009,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -4017,7 +4017,7 @@
             "archived": false,
             "id": 689344,
             "language": "C",
-            "last_commit": "2026-08-26T12:28:01Z",
+            "last_commit": "2026-08-27T01:30:27Z",
             "owner": "libretro",
             "repo": "RetroArch",
             "stars": 13578
@@ -4032,10 +4032,10 @@
             "archived": false,
             "id": 12416862,
             "language": "C",
-            "last_commit": "2026-08-26T06:34:43Z",
+            "last_commit": "2026-08-26T23:36:36Z",
             "owner": "Provenance-Emu",
             "repo": "Provenance",
-            "stars": 6360
+            "stars": 6362
           }
         },
         {
@@ -4050,7 +4050,7 @@
             "last_commit": "2026-07-30T21:16:57Z",
             "owner": "rileytestut",
             "repo": "Delta",
-            "stars": 6083
+            "stars": 6088
           }
         },
         {
@@ -4095,7 +4095,7 @@
             "last_commit": "2024-10-22T04:13:45Z",
             "owner": "litchie",
             "repo": "dospad",
-            "stars": 639
+            "stars": 640
           }
         },
         {
@@ -4110,7 +4110,7 @@
             "last_commit": "2026-08-09T13:28:07Z",
             "owner": "zydeco",
             "repo": "minivmac4ios",
-            "stars": 599
+            "stars": 600
           }
         },
         {
@@ -4160,7 +4160,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ]
@@ -4219,7 +4219,7 @@
             "last_commit": "2024-08-16T16:08:36Z",
             "owner": "chanify",
             "repo": "chanify-ios",
-            "stars": 228
+            "stars": 229
           }
         },
         {
@@ -4266,7 +4266,7 @@
                 "last_commit": "2026-07-26T21:10:57Z",
                 "owner": "oblador",
                 "repo": "hush",
-                "stars": 3693
+                "stars": 3694
               }
             },
             {
@@ -4278,10 +4278,10 @@
                 "archived": false,
                 "id": 830523531,
                 "language": "Swift",
-                "last_commit": "2026-08-26T00:33:05Z",
+                "last_commit": "2026-08-27T10:55:06Z",
                 "owner": "0xCUB3",
                 "repo": "wBlock",
-                "stars": 2770
+                "stars": 2771
               }
             },
             {
@@ -4296,7 +4296,7 @@
                 "last_commit": "2026-08-26T11:20:31Z",
                 "owner": "AdguardTeam",
                 "repo": "AdguardForiOS",
-                "stars": 1693
+                "stars": 1692
               }
             },
             {
@@ -4338,7 +4338,7 @@
                 "archived": false,
                 "id": 128927398,
                 "language": "Swift",
-                "last_commit": "2026-08-26T10:12:52Z",
+                "last_commit": "2026-08-27T11:34:25Z",
                 "owner": "pia-foss",
                 "repo": "mobile-ios",
                 "stars": 350
@@ -4527,7 +4527,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -4553,7 +4553,7 @@
                 "last_commit": "2023-09-26T16:04:13Z",
                 "owner": "bakkenbaeck",
                 "repo": "daylight-ios",
-                "stars": 137
+                "stars": 136
               }
             },
             {
@@ -4588,7 +4588,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -4785,7 +4785,7 @@
             "last_commit": "2026-08-24T00:11:36Z",
             "owner": "localsend",
             "repo": "localsend",
-            "stars": 89418
+            "stars": 89493
           }
         },
         {
@@ -4812,10 +4812,10 @@
             "archived": false,
             "id": 75287738,
             "language": "Swift",
-            "last_commit": "2026-08-26T13:34:39Z",
+            "last_commit": "2026-08-27T09:35:41Z",
             "owner": "nextcloud",
             "repo": "ios",
-            "stars": 2488
+            "stars": 2489
           }
         },
         {
@@ -4857,7 +4857,7 @@
             "archived": false,
             "id": 120430704,
             "language": "Swift",
-            "last_commit": "2026-08-25T13:28:28Z",
+            "last_commit": "2026-08-27T06:33:07Z",
             "owner": "owncloud",
             "repo": "ios-app",
             "stars": 251
@@ -4902,7 +4902,7 @@
             "archived": false,
             "id": 359415613,
             "language": "Swift",
-            "last_commit": "2026-08-26T10:38:58Z",
+            "last_commit": "2026-08-27T11:47:56Z",
             "owner": "Infomaniak",
             "repo": "ios-kDrive",
             "stars": 84
@@ -4941,7 +4941,7 @@
             "last_commit": "2026-08-23T06:50:37Z",
             "owner": "TNT-Likely",
             "repo": "BeeCount",
-            "stars": 2186
+            "stars": 2196
           }
         },
         {
@@ -5002,7 +5002,7 @@
             "last_commit": "2024-02-22T09:00:08Z",
             "owner": "abdorizak",
             "repo": "Expense-Tracker-App",
-            "stars": 174
+            "stars": 173
           }
         },
         {
@@ -5277,10 +5277,10 @@
                 "archived": false,
                 "id": 176777353,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T13:27:03Z",
+                "last_commit": "2026-08-26T22:06:42Z",
                 "owner": "rainbow-me",
                 "repo": "rainbow",
-                "stars": 4383
+                "stars": 4384
               }
             },
             {
@@ -5292,10 +5292,10 @@
                 "archived": false,
                 "id": 142568914,
                 "language": "Swift",
-                "last_commit": "2026-08-26T12:30:30Z",
+                "last_commit": "2026-08-27T11:44:31Z",
                 "owner": "horizontalsystems",
                 "repo": "unstoppable-wallet-ios",
-                "stars": 902
+                "stars": 901
               }
             },
             {
@@ -5408,10 +5408,10 @@
             "archived": false,
             "id": 89822531,
             "language": "Java",
-            "last_commit": "2026-08-26T13:36:29Z",
+            "last_commit": "2026-08-26T20:59:42Z",
             "owner": "Anuken",
             "repo": "Mindustry",
-            "stars": 28744
+            "stars": 28750
           }
         },
         {
@@ -5423,10 +5423,10 @@
             "archived": false,
             "id": 22456440,
             "language": "C#",
-            "last_commit": "2026-08-25T07:19:12Z",
+            "last_commit": "2026-08-26T22:06:29Z",
             "owner": "ppy",
             "repo": "osu",
-            "stars": 18930
+            "stars": 18935
           }
         },
         {
@@ -5446,7 +5446,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -5492,7 +5492,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -5503,7 +5503,7 @@
             "last_commit": "2025-10-09T02:56:42Z",
             "owner": "moonlight-stream",
             "repo": "moonlight-ios",
-            "stars": 1641
+            "stars": 1643
           }
         },
         {
@@ -5523,7 +5523,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -5615,7 +5615,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -5775,7 +5775,7 @@
             "archived": false,
             "id": 115314284,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T19:34:32Z",
+            "last_commit": "2026-08-27T00:42:39Z",
             "owner": "chrisheninger",
             "repo": "matchimals.fun",
             "stars": 194
@@ -6056,7 +6056,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -6134,7 +6134,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -6300,7 +6300,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -6380,10 +6380,10 @@
             "archived": false,
             "id": 539619974,
             "language": "Dart",
-            "last_commit": "2026-08-26T13:20:53Z",
+            "last_commit": "2026-08-27T11:56:01Z",
             "owner": "simonoppowa",
             "repo": "OpenNutriTracker",
-            "stars": 2405
+            "stars": 2411
           }
         },
         {
@@ -6410,7 +6410,7 @@
             "archived": false,
             "id": 258191576,
             "language": "Dart",
-            "last_commit": "2026-08-26T00:31:09Z",
+            "last_commit": "2026-08-26T19:30:40Z",
             "owner": "openfoodfacts",
             "repo": "smooth-app",
             "stars": 1405
@@ -6445,7 +6445,7 @@
                 "archived": false,
                 "id": 58003045,
                 "language": "Swift",
-                "last_commit": "2026-08-24T19:48:52Z",
+                "last_commit": "2026-08-27T11:21:29Z",
                 "owner": "nightscout",
                 "repo": "nightguard",
                 "stars": 280
@@ -6456,7 +6456,7 @@
             "archived": false,
             "id": 58003045,
             "language": "Swift",
-            "last_commit": "2026-08-24T19:48:52Z",
+            "last_commit": "2026-08-27T11:21:29Z",
             "owner": "nightscout",
             "repo": "nightguard",
             "stars": 280
@@ -6708,7 +6708,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -6770,21 +6770,6 @@
         },
         {
           "node_type": "item",
-          "title": "Pulse – Your Micro-Journal",
-          "description": "Minimalist micro-journaling companion designed to make reflection as effortless as possible",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 1159023411,
-            "language": "Swift",
-            "last_commit": "2026-08-20T17:03:52Z",
-            "owner": "marcusraitner",
-            "repo": "pulse",
-            "stars": 15
-          }
-        },
-        {
-          "node_type": "item",
           "title": "DailyVox",
           "description": "AI Voice Diary",
           "children": [],
@@ -6795,6 +6780,21 @@
             "last_commit": "2026-08-25T10:10:18Z",
             "owner": "intrepidkarthi",
             "repo": "dailyvox",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pulse – Your Micro-Journal",
+          "description": "Minimalist micro-journaling companion designed to make reflection as effortless as possible",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1159023411,
+            "language": "Swift",
+            "last_commit": "2026-08-20T17:03:52Z",
+            "owner": "marcusraitner",
+            "repo": "pulse",
             "stars": 14
           }
         },
@@ -6898,7 +6898,7 @@
             "archived": false,
             "id": 1224412318,
             "language": "Swift",
-            "last_commit": "2026-08-26T01:06:33Z",
+            "last_commit": "2026-08-27T07:30:06Z",
             "owner": "lokii49",
             "repo": "mirror",
             "stars": 0
@@ -6923,7 +6923,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -6954,7 +6954,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -6985,7 +6985,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -7016,7 +7016,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -7047,7 +7047,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -7109,7 +7109,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -7140,7 +7140,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -7171,7 +7171,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -7217,7 +7217,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -7263,7 +7263,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ]
@@ -7292,7 +7292,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -7322,7 +7322,7 @@
                 "archived": false,
                 "id": 343094174,
                 "language": "Dart",
-                "last_commit": "2026-08-26T12:18:39Z",
+                "last_commit": "2026-08-26T13:48:33Z",
                 "owner": "meditohq",
                 "repo": "medito-app",
                 "stars": 1305
@@ -7345,7 +7345,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -7356,7 +7356,7 @@
                 "last_commit": "2026-06-16T09:40:37Z",
                 "owner": "timfraedrich",
                 "repo": "OutRun",
-                "stars": 871
+                "stars": 870
               }
             },
             {
@@ -7373,10 +7373,10 @@
                     "archived": false,
                     "id": 294157477,
                     "language": "C++",
-                    "last_commit": "2026-08-26T13:03:30Z",
+                    "last_commit": "2026-08-27T11:37:28Z",
                     "owner": "cagnulein",
                     "repo": "qdomyos-zwift",
-                    "stars": 839
+                    "stars": 838
                   }
                 }
               ],
@@ -7384,10 +7384,10 @@
                 "archived": false,
                 "id": 294157477,
                 "language": "C++",
-                "last_commit": "2026-08-26T13:03:30Z",
+                "last_commit": "2026-08-27T11:37:28Z",
                 "owner": "cagnulein",
                 "repo": "qdomyos-zwift",
-                "stars": 839
+                "stars": 838
               }
             },
             {
@@ -7490,10 +7490,10 @@
                 "archived": false,
                 "id": 1302748179,
                 "language": "Swift",
-                "last_commit": "2026-08-25T21:44:44Z",
+                "last_commit": "2026-08-27T07:28:32Z",
                 "owner": "dredfort42",
                 "repo": "dredfit",
-                "stars": 0
+                "stars": 1
               }
             }
           ],
@@ -7516,10 +7516,10 @@
             "archived": false,
             "id": 55336932,
             "language": "Swift",
-            "last_commit": "2026-08-26T13:12:05Z",
+            "last_commit": "2026-08-27T11:57:29Z",
             "owner": "home-assistant",
             "repo": "iOS",
-            "stars": 2311
+            "stars": 2314
           }
         },
         {
@@ -7552,10 +7552,10 @@
             "archived": false,
             "id": 324829379,
             "language": "C++",
-            "last_commit": "2026-08-26T11:51:37Z",
+            "last_commit": "2026-08-26T21:54:43Z",
             "owner": "organicmaps",
             "repo": "organicmaps",
-            "stars": 15210
+            "stars": 15218
           }
         },
         {
@@ -7567,10 +7567,10 @@
             "archived": false,
             "id": 1258570,
             "language": "Java",
-            "last_commit": "2026-08-26T13:36:36Z",
+            "last_commit": "2026-08-27T10:22:46Z",
             "owner": "osmandapp",
             "repo": "OsmAnd",
-            "stars": 5930
+            "stars": 5932
           }
         },
         {
@@ -7590,7 +7590,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -7696,7 +7696,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -7787,7 +7787,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -7825,7 +7825,7 @@
             "archived": false,
             "id": 17054948,
             "language": "Swift",
-            "last_commit": "2026-08-25T20:15:26Z",
+            "last_commit": "2026-08-26T14:14:33Z",
             "owner": "miataru",
             "repo": "miataru-ios-client",
             "stars": 20
@@ -7893,7 +7893,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ]
@@ -7913,10 +7913,10 @@
             "archived": false,
             "id": 871781831,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:34:02Z",
+            "last_commit": "2026-08-27T09:38:40Z",
             "owner": "readest",
             "repo": "readest",
-            "stars": 23743
+            "stars": 23778
           }
         },
         {
@@ -7928,10 +7928,10 @@
             "archived": false,
             "id": 1217614,
             "language": "C++",
-            "last_commit": "2026-08-26T05:48:55Z",
+            "last_commit": "2026-08-27T03:41:11Z",
             "owner": "xbmc",
             "repo": "xbmc",
-            "stars": 21138
+            "stars": 21145
           }
         },
         {
@@ -7943,7 +7943,7 @@
             "archived": false,
             "id": 37978718,
             "language": "C",
-            "last_commit": "2026-08-25T09:47:02Z",
+            "last_commit": "2026-08-26T14:46:55Z",
             "owner": "ArtifexSoftware",
             "repo": "mupdf",
             "stars": 2930
@@ -7989,7 +7989,7 @@
             "archived": false,
             "id": 512754250,
             "language": "Swift",
-            "last_commit": "2026-08-26T13:32:29Z",
+            "last_commit": "2026-08-27T07:51:23Z",
             "owner": "Automattic",
             "repo": "pocket-casts-ios",
             "stars": 1817
@@ -8072,7 +8072,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -8153,7 +8153,7 @@
                 "last_commit": "2026-07-26T06:33:02Z",
                 "owner": "AudioKit",
                 "repo": "AudioKit",
-                "stars": 11441
+                "stars": 11442
               }
             },
             {
@@ -8280,7 +8280,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -8326,7 +8326,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -8403,7 +8403,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -8434,7 +8434,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -8460,7 +8460,7 @@
                 "last_commit": "2026-08-25T23:44:53Z",
                 "owner": "Loriage",
                 "repo": "Minidisc",
-                "stars": 4
+                "stars": 5
               }
             }
           ],
@@ -8497,7 +8497,7 @@
                 "last_commit": "2026-08-25T14:57:29Z",
                 "owner": "EhPanda-Team",
                 "repo": "EhPanda",
-                "stars": 3959
+                "stars": 3961
               }
             },
             {
@@ -8517,7 +8517,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -8525,7 +8525,7 @@
                 "archived": false,
                 "id": 29702213,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T13:05:14Z",
+                "last_commit": "2026-08-27T10:17:17Z",
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3775
@@ -8558,7 +8558,7 @@
                 "last_commit": "2024-12-05T17:18:55Z",
                 "owner": "DaidoujiChen",
                 "repo": "Dai-Hentai",
-                "stars": 1266
+                "stars": 1267
               }
             },
             {
@@ -8776,7 +8776,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -8807,7 +8807,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -8945,7 +8945,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -9190,7 +9190,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ]
@@ -9272,7 +9272,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -9560,10 +9560,10 @@
                 "archived": false,
                 "id": 3299208,
                 "language": "C",
-                "last_commit": "2026-08-26T13:37:01Z",
+                "last_commit": "2026-08-27T11:25:04Z",
                 "owner": "videolan",
                 "repo": "vlc",
-                "stars": 19437
+                "stars": 19446
               }
             },
             {
@@ -9578,7 +9578,7 @@
                 "last_commit": "2026-08-23T11:05:24Z",
                 "owner": "yattee",
                 "repo": "yattee",
-                "stars": 3653
+                "stars": 3657
               }
             },
             {
@@ -9590,10 +9590,10 @@
                 "archived": false,
                 "id": 680010704,
                 "language": "Swift",
-                "last_commit": "2026-08-26T08:48:07Z",
+                "last_commit": "2026-08-26T14:28:35Z",
                 "owner": "eerimoq",
                 "repo": "moblin",
-                "stars": 725
+                "stars": 724
               }
             },
             {
@@ -9605,10 +9605,10 @@
                 "archived": false,
                 "id": 1265349736,
                 "language": "Swift",
-                "last_commit": "2026-08-20T13:46:44Z",
+                "last_commit": "2026-08-26T14:49:58Z",
                 "owner": "verback2308",
                 "repo": "Opaline",
-                "stars": 258
+                "stars": 263
               }
             },
             {
@@ -9924,7 +9924,7 @@
                 "last_commit": "2026-08-25T11:13:46Z",
                 "owner": "weiran",
                 "repo": "Hackers",
-                "stars": 763
+                "stars": 764
               }
             },
             {
@@ -9936,10 +9936,10 @@
                 "archived": false,
                 "id": 682684464,
                 "language": "Kotlin",
-                "last_commit": "2026-08-26T03:34:07Z",
+                "last_commit": "2026-08-26T20:17:01Z",
                 "owner": "EmergeTools",
                 "repo": "hackernews",
-                "stars": 220
+                "stars": 219
               }
             },
             {
@@ -9966,7 +9966,7 @@
                 "archived": false,
                 "id": 518728775,
                 "language": "Swift",
-                "last_commit": "2026-05-12T08:44:11Z",
+                "last_commit": "2026-08-27T01:18:36Z",
                 "owner": "Livinglist",
                 "repo": "Gem",
                 "stars": 86
@@ -10104,7 +10104,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -10181,7 +10181,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -10274,7 +10274,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -10335,10 +10335,10 @@
                 "archived": false,
                 "id": 91977145,
                 "language": "Swift",
-                "last_commit": "2026-08-25T20:06:07Z",
+                "last_commit": "2026-08-27T05:24:02Z",
                 "owner": "Ranchero-Software",
                 "repo": "NetNewsWire",
-                "stars": 10316
+                "stars": 10323
               }
             },
             {
@@ -10355,10 +10355,10 @@
                     "archived": false,
                     "id": 632826313,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-26T04:30:59Z",
+                    "last_commit": "2026-08-26T22:06:50Z",
                     "owner": "msasikanth",
                     "repo": "twine",
-                    "stars": 2386
+                    "stars": 2388
                   }
                 }
               ],
@@ -10366,10 +10366,10 @@
                 "archived": false,
                 "id": 632826313,
                 "language": "Kotlin",
-                "last_commit": "2026-08-26T04:30:59Z",
+                "last_commit": "2026-08-26T22:06:50Z",
                 "owner": "msasikanth",
                 "repo": "twine",
-                "stars": 2386
+                "stars": 2388
               }
             },
             {
@@ -10386,7 +10386,7 @@
                     "archived": false,
                     "id": 600257020,
                     "language": "Kotlin",
-                    "last_commit": "2026-08-26T12:51:43Z",
+                    "last_commit": "2026-08-27T06:05:23Z",
                     "owner": "prof18",
                     "repo": "feed-flow",
                     "stars": 1178
@@ -10397,7 +10397,7 @@
                 "archived": false,
                 "id": 600257020,
                 "language": "Kotlin",
-                "last_commit": "2026-08-26T12:51:43Z",
+                "last_commit": "2026-08-27T06:05:23Z",
                 "owner": "prof18",
                 "repo": "feed-flow",
                 "stars": 1178
@@ -10438,10 +10438,10 @@
             "archived": false,
             "id": 120360765,
             "language": null,
-            "last_commit": "2026-08-26T13:36:26Z",
+            "last_commit": "2026-08-27T11:49:39Z",
             "owner": "chromium",
             "repo": "chromium",
-            "stars": 24623
+            "stars": 24633
           }
         },
         {
@@ -10453,10 +10453,10 @@
             "archived": false,
             "id": 1217614,
             "language": "C++",
-            "last_commit": "2026-08-26T05:48:55Z",
+            "last_commit": "2026-08-27T03:41:11Z",
             "owner": "xbmc",
             "repo": "xbmc",
-            "stars": 21138
+            "stars": 21145
           }
         },
         {
@@ -10468,10 +10468,10 @@
             "archived": false,
             "id": 3299208,
             "language": "C",
-            "last_commit": "2026-08-26T13:37:01Z",
+            "last_commit": "2026-08-27T11:25:04Z",
             "owner": "videolan",
             "repo": "vlc",
-            "stars": 19437
+            "stars": 19446
           }
         },
         {
@@ -10491,7 +10491,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -10499,10 +10499,10 @@
             "archived": false,
             "id": 501027541,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:36:27Z",
+            "last_commit": "2026-08-27T11:44:59Z",
             "owner": "bluesky-social",
             "repo": "social-app",
-            "stars": 18238
+            "stars": 18241
           }
         },
         {
@@ -10514,7 +10514,7 @@
             "archived": false,
             "id": 26133979,
             "language": "Swift",
-            "last_commit": "2026-08-26T13:15:30Z",
+            "last_commit": "2026-08-27T11:53:56Z",
             "owner": "mozilla-mobile",
             "repo": "firefox-ios",
             "stars": 13033
@@ -10529,10 +10529,10 @@
             "archived": false,
             "id": 19429698,
             "language": "Swift",
-            "last_commit": "2026-08-20T19:32:18Z",
+            "last_commit": "2026-08-26T22:43:14Z",
             "owner": "signalapp",
             "repo": "Signal-iOS",
-            "stars": 12212
+            "stars": 12213
           }
         },
         {
@@ -10544,7 +10544,7 @@
             "archived": false,
             "id": 75432091,
             "language": "Swift",
-            "last_commit": "2026-08-25T21:24:01Z",
+            "last_commit": "2026-08-26T21:38:35Z",
             "owner": "kickstarter",
             "repo": "ios-oss",
             "stars": 8667
@@ -10559,10 +10559,10 @@
             "archived": false,
             "id": 176777353,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:27:03Z",
+            "last_commit": "2026-08-26T22:06:42Z",
             "owner": "rainbow-me",
             "repo": "rainbow",
-            "stars": 4383
+            "stars": 4384
           }
         },
         {
@@ -10574,10 +10574,10 @@
             "archived": false,
             "id": 8859285,
             "language": "Swift",
-            "last_commit": "2026-08-26T08:25:39Z",
+            "last_commit": "2026-08-27T03:32:34Z",
             "owner": "wordpress-mobile",
             "repo": "WordPress-iOS",
-            "stars": 3909
+            "stars": 3908
           }
         },
         {
@@ -10589,10 +10589,10 @@
             "archived": false,
             "id": 13863130,
             "language": "Swift",
-            "last_commit": "2026-08-26T13:19:49Z",
+            "last_commit": "2026-08-26T23:33:36Z",
             "owner": "wikimedia",
             "repo": "wikipedia-ios",
-            "stars": 3441
+            "stars": 3442
           }
         },
         {
@@ -10604,10 +10604,10 @@
             "archived": false,
             "id": 75287738,
             "language": "Swift",
-            "last_commit": "2026-08-26T13:34:39Z",
+            "last_commit": "2026-08-27T09:35:41Z",
             "owner": "nextcloud",
             "repo": "ios",
-            "stars": 2488
+            "stars": 2489
           }
         },
         {
@@ -10619,10 +10619,10 @@
             "archived": false,
             "id": 332718082,
             "language": "Swift",
-            "last_commit": "2026-08-26T04:27:44Z",
+            "last_commit": "2026-08-27T06:26:46Z",
             "owner": "mastodon",
             "repo": "mastodon-ios",
-            "stars": 2266
+            "stars": 2267
           }
         },
         {
@@ -10634,7 +10634,7 @@
             "archived": false,
             "id": 65482387,
             "language": "Swift",
-            "last_commit": "2026-08-26T00:52:48Z",
+            "last_commit": "2026-08-27T10:19:56Z",
             "owner": "Automattic",
             "repo": "simplenote-ios",
             "stars": 2150
@@ -10694,10 +10694,10 @@
             "archived": false,
             "id": 903987915,
             "language": "Swift",
-            "last_commit": "2026-08-26T13:32:16Z",
+            "last_commit": "2026-08-27T11:56:09Z",
             "owner": "duckduckgo",
             "repo": "apple-browsers",
-            "stars": 251
+            "stars": 250
           }
         },
         {
@@ -10709,7 +10709,7 @@
             "archived": false,
             "id": 96201497,
             "language": "Swift",
-            "last_commit": "2026-08-26T09:54:23Z",
+            "last_commit": "2026-08-27T11:25:14Z",
             "owner": "nextcloud",
             "repo": "talk-ios",
             "stars": 227
@@ -10724,7 +10724,7 @@
             "archived": false,
             "id": 581121052,
             "language": "Swift",
-            "last_commit": "2026-08-26T12:33:22Z",
+            "last_commit": "2026-08-27T08:00:34Z",
             "owner": "wireapp",
             "repo": "wire-ios",
             "stars": 166
@@ -10739,7 +10739,7 @@
             "archived": false,
             "id": 359415613,
             "language": "Swift",
-            "last_commit": "2026-08-26T10:38:58Z",
+            "last_commit": "2026-08-27T11:47:56Z",
             "owner": "Infomaniak",
             "repo": "ios-kDrive",
             "stars": 84
@@ -10806,10 +10806,10 @@
             "archived": false,
             "id": 869263252,
             "language": "Swift",
-            "last_commit": "2026-08-25T20:39:51Z",
+            "last_commit": "2026-08-27T03:28:45Z",
             "owner": "awaseem",
             "repo": "foqos",
-            "stars": 714
+            "stars": 717
           }
         },
         {
@@ -10824,7 +10824,7 @@
             "last_commit": "2025-06-18T19:35:28Z",
             "owner": "rileytestut",
             "repo": "Clip",
-            "stars": 610
+            "stars": 611
           }
         },
         {
@@ -10836,7 +10836,7 @@
             "archived": false,
             "id": 1080068580,
             "language": "Swift",
-            "last_commit": "2026-08-26T05:16:02Z",
+            "last_commit": "2026-08-27T08:20:35Z",
             "owner": "writingmate",
             "repo": "aidictation",
             "stars": 40
@@ -10906,7 +10906,7 @@
             "last_commit": "2026-07-24T14:53:59Z",
             "owner": "pointfreeco",
             "repo": "swift-composable-architecture",
-            "stars": 14885
+            "stars": 14888
           }
         },
         {
@@ -10966,7 +10966,7 @@
             "last_commit": "2026-07-20T22:07:00Z",
             "owner": "ml-explore",
             "repo": "mlx-swift-examples",
-            "stars": 2653
+            "stars": 2656
           }
         },
         {
@@ -11198,7 +11198,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -11334,7 +11334,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -11606,7 +11606,7 @@
             "archived": false,
             "id": 415576998,
             "language": "Swift",
-            "last_commit": "2026-08-21T21:53:12Z",
+            "last_commit": "2026-08-26T16:52:44Z",
             "owner": "WezSieTato",
             "repo": "ScanNow",
             "stars": 65
@@ -11688,7 +11688,7 @@
             "archived": false,
             "id": 29099181,
             "language": "Go",
-            "last_commit": "2026-08-26T13:36:25Z",
+            "last_commit": "2026-08-26T22:16:45Z",
             "owner": "keybase",
             "repo": "client",
             "stars": 9242
@@ -11703,7 +11703,7 @@
             "archived": false,
             "id": 125118418,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T10:03:35Z",
+            "last_commit": "2026-08-27T11:56:32Z",
             "owner": "OutlineFoundation",
             "repo": "outline-apps",
             "stars": 9234
@@ -11718,10 +11718,10 @@
             "archived": false,
             "id": 22344874,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:11:07Z",
+            "last_commit": "2026-08-27T11:44:34Z",
             "owner": "tutao",
             "repo": "tutanota",
-            "stars": 7873
+            "stars": 7876
           }
         },
         {
@@ -11733,10 +11733,10 @@
             "archived": false,
             "id": 114742422,
             "language": "Rust",
-            "last_commit": "2026-08-26T13:27:12Z",
+            "last_commit": "2026-08-27T11:53:21Z",
             "owner": "mullvad",
             "repo": "mullvadvpn-app",
-            "stars": 7505
+            "stars": 7510
           }
         },
         {
@@ -11771,7 +11771,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -11797,7 +11797,7 @@
             "last_commit": "2026-08-25T22:40:58Z",
             "owner": "partout-io",
             "repo": "passepartout",
-            "stars": 1354
+            "stars": 1352
           }
         },
         {
@@ -11817,7 +11817,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -11858,7 +11858,7 @@
             "last_commit": "2026-06-08T07:25:03Z",
             "owner": "ProtonVPN",
             "repo": "ios-mac-app",
-            "stars": 636
+            "stars": 637
           }
         },
         {
@@ -11893,7 +11893,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -11934,7 +11934,7 @@
             "last_commit": "2026-08-12T12:39:16Z",
             "owner": "guardianproject",
             "repo": "orbot-apple",
-            "stars": 306
+            "stars": 305
           }
         },
         {
@@ -12039,10 +12039,10 @@
                 "archived": false,
                 "id": 808517453,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T20:08:40Z",
+                "last_commit": "2026-08-26T19:50:40Z",
                 "owner": "aliasvault",
                 "repo": "aliasvault",
-                "stars": 3050
+                "stars": 3052
               }
             },
             {
@@ -12072,7 +12072,7 @@
                 "last_commit": "2026-05-23T20:38:25Z",
                 "owner": "keepassium",
                 "repo": "KeePassium",
-                "stars": 1673
+                "stars": 1674
               }
             },
             {
@@ -12102,7 +12102,7 @@
                 "last_commit": "2026-07-17T14:03:41Z",
                 "owner": "strongbox-password-safe",
                 "repo": "Strongbox",
-                "stars": 1452
+                "stars": 1454
               }
             },
             {
@@ -12159,10 +12159,10 @@
                 "archived": false,
                 "id": 666493404,
                 "language": "Swift",
-                "last_commit": "2026-08-26T13:38:23Z",
+                "last_commit": "2026-08-27T11:37:00Z",
                 "owner": "bitwarden",
                 "repo": "ios",
-                "stars": 674
+                "stars": 675
               }
             },
             {
@@ -12262,10 +12262,10 @@
             "archived": false,
             "id": 118771568,
             "language": "Swift",
-            "last_commit": "2026-08-26T13:28:54Z",
+            "last_commit": "2026-08-27T11:49:36Z",
             "owner": "woocommerce",
             "repo": "woocommerce-ios",
-            "stars": 361
+            "stars": 360
           }
         },
         {
@@ -12322,7 +12322,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -12330,10 +12330,10 @@
             "archived": false,
             "id": 501027541,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:36:27Z",
+            "last_commit": "2026-08-27T11:44:59Z",
             "owner": "bluesky-social",
             "repo": "social-app",
-            "stars": 18238
+            "stars": 18241
           }
         },
         {
@@ -12442,7 +12442,7 @@
                 "last_commit": "2026-08-25T05:59:34Z",
                 "owner": "Dimillian",
                 "repo": "IceCubesApp",
-                "stars": 7048
+                "stars": 7049
               }
             },
             {
@@ -12498,7 +12498,7 @@
             "last_commit": "2026-06-15T20:55:35Z",
             "owner": "xpavle00",
             "repo": "Habo",
-            "stars": 1488
+            "stars": 1491
           }
         },
         {
@@ -12510,7 +12510,7 @@
             "archived": false,
             "id": 632693436,
             "language": "Dart",
-            "last_commit": "2026-08-26T07:15:21Z",
+            "last_commit": "2026-08-27T04:15:08Z",
             "owner": "FriesI23",
             "repo": "mhabit",
             "stars": 1458
@@ -12528,7 +12528,7 @@
             "last_commit": "2026-08-23T03:54:08Z",
             "owner": "HabitRPG",
             "repo": "habitica-ios",
-            "stars": 850
+            "stars": 851
           }
         },
         {
@@ -12685,10 +12685,10 @@
                 "archived": false,
                 "id": 79162682,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T08:21:19Z",
+                "last_commit": "2026-08-27T09:01:46Z",
                 "owner": "laurent22",
                 "repo": "joplin",
-                "stars": 56114
+                "stars": 56126
               }
             },
             {
@@ -12708,7 +12708,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -12716,10 +12716,10 @@
                 "archived": false,
                 "id": 266231149,
                 "language": "Clojure",
-                "last_commit": "2026-08-26T11:47:38Z",
+                "last_commit": "2026-08-26T16:32:21Z",
                 "owner": "logseq",
                 "repo": "logseq",
-                "stars": 44641
+                "stars": 44652
               }
             },
             {
@@ -12736,10 +12736,10 @@
                     "archived": false,
                     "id": 353775942,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T14:22:07Z",
+                    "last_commit": "2026-08-27T09:27:44Z",
                     "owner": "streetwriters",
                     "repo": "notesnook",
-                    "stars": 14471
+                    "stars": 14473
                   }
                 }
               ],
@@ -12747,10 +12747,10 @@
                 "archived": false,
                 "id": 353775942,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T14:22:07Z",
+                "last_commit": "2026-08-27T09:27:44Z",
                 "owner": "streetwriters",
                 "repo": "notesnook",
-                "stars": 14471
+                "stars": 14473
               }
             },
             {
@@ -12762,10 +12762,10 @@
                 "archived": false,
                 "id": 838659679,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T12:41:34Z",
+                "last_commit": "2026-08-26T13:58:21Z",
                 "owner": "codexu",
                 "repo": "note-gen",
-                "stars": 12688
+                "stars": 12691
               }
             },
             {
@@ -12780,7 +12780,7 @@
                 "last_commit": "2026-08-23T09:22:27Z",
                 "owner": "glushchenko",
                 "repo": "fsnotes",
-                "stars": 7456
+                "stars": 7458
               }
             },
             {
@@ -12795,7 +12795,7 @@
                 "last_commit": "2026-08-25T23:24:10Z",
                 "owner": "standardnotes",
                 "repo": "app",
-                "stars": 6601
+                "stars": 6604
               }
             },
             {
@@ -12807,10 +12807,10 @@
                 "archived": false,
                 "id": 516598834,
                 "language": "Dart",
-                "last_commit": "2026-08-24T17:10:51Z",
+                "last_commit": "2026-08-27T01:47:46Z",
                 "owner": "saber-notes",
                 "repo": "saber",
-                "stars": 4728
+                "stars": 4732
               }
             },
             {
@@ -12822,7 +12822,7 @@
                 "archived": false,
                 "id": 65482387,
                 "language": "Swift",
-                "last_commit": "2026-08-26T00:52:48Z",
+                "last_commit": "2026-08-27T10:19:56Z",
                 "owner": "Automattic",
                 "repo": "simplenote-ios",
                 "stars": 2150
@@ -12907,7 +12907,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -13010,7 +13010,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -13114,7 +13114,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -13145,7 +13145,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -13252,7 +13252,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -13465,10 +13465,10 @@
             "archived": false,
             "id": 1103012935,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T13:38:33Z",
+            "last_commit": "2026-08-27T11:56:22Z",
             "owner": "openclaw",
             "repo": "openclaw",
-            "stars": 387691
+            "stars": 387782
           }
         },
         {
@@ -13483,7 +13483,7 @@
             "last_commit": "2026-07-14T19:06:27Z",
             "owner": "altstoreio",
             "repo": "AltStore",
-            "stars": 14229
+            "stars": 14235
           }
         },
         {
@@ -13495,10 +13495,10 @@
             "archived": false,
             "id": 1979797,
             "language": "C",
-            "last_commit": "2026-08-26T13:22:39Z",
+            "last_commit": "2026-08-27T11:13:52Z",
             "owner": "FreeRDP",
             "repo": "FreeRDP",
-            "stars": 13591
+            "stars": 13597
           }
         },
         {
@@ -13525,10 +13525,10 @@
             "archived": false,
             "id": 912164685,
             "language": "Python",
-            "last_commit": "2026-08-25T09:48:16Z",
+            "last_commit": "2026-08-27T10:03:28Z",
             "owner": "roryclear",
             "repo": "clearcam",
-            "stars": 1227
+            "stars": 1281
           }
         },
         {
@@ -13625,7 +13625,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -13764,7 +13764,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -13841,7 +13841,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -14099,7 +14099,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -14130,7 +14130,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -14192,7 +14192,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -14298,7 +14298,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -14435,7 +14435,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -14558,7 +14558,7 @@
                 "last_commit": "2026-08-26T12:19:19Z",
                 "owner": "dkhamsing",
                 "repo": "open-source-ios-apps",
-                "stars": 51851
+                "stars": 51865
               }
             }
           ],
@@ -14652,7 +14652,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -14842,10 +14842,10 @@
                 "archived": false,
                 "id": 455229168,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T13:31:00Z",
+                "last_commit": "2026-08-27T11:47:10Z",
                 "owner": "immich-app",
                 "repo": "immich",
-                "stars": 112696
+                "stars": 112774
               }
             },
             {
@@ -14952,7 +14952,7 @@
                 "last_commit": "2026-08-21T13:33:31Z",
                 "owner": "invoiceninja",
                 "repo": "admin-portal",
-                "stars": 1751
+                "stars": 1750
               }
             },
             {
@@ -15013,7 +15013,7 @@
                 "last_commit": "2026-06-15T20:55:35Z",
                 "owner": "xpavle00",
                 "repo": "Habo",
-                "stars": 1488
+                "stars": 1491
               }
             },
             {
@@ -15025,7 +15025,7 @@
                 "archived": false,
                 "id": 632693436,
                 "language": "Dart",
-                "last_commit": "2026-08-26T07:15:21Z",
+                "last_commit": "2026-08-27T04:15:08Z",
                 "owner": "FriesI23",
                 "repo": "mhabit",
                 "stars": 1458
@@ -15040,7 +15040,7 @@
                 "archived": false,
                 "id": 343094174,
                 "language": "Dart",
-                "last_commit": "2026-08-26T12:18:39Z",
+                "last_commit": "2026-08-26T13:48:33Z",
                 "owner": "meditohq",
                 "repo": "medito-app",
                 "stars": 1305
@@ -15382,7 +15382,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -15733,7 +15733,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -15917,7 +15917,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -15996,7 +15996,7 @@
                 "last_commit": "2026-08-23T11:05:24Z",
                 "owner": "yattee",
                 "repo": "yattee",
-                "stars": 3653
+                "stars": 3657
               }
             },
             {
@@ -16069,7 +16069,7 @@
                 "archived": false,
                 "id": 222286745,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:06:32Z",
+                "last_commit": "2026-08-26T19:18:07Z",
                 "owner": "joreilly",
                 "repo": "BikeShare",
                 "stars": 828
@@ -16087,7 +16087,7 @@
                 "last_commit": "2026-06-08T07:25:03Z",
                 "owner": "ProtonVPN",
                 "repo": "ios-mac-app",
-                "stars": 636
+                "stars": 637
               }
             },
             {
@@ -16099,7 +16099,7 @@
                 "archived": false,
                 "id": 310705720,
                 "language": "Swift",
-                "last_commit": "2026-08-25T16:12:56Z",
+                "last_commit": "2026-08-26T20:45:54Z",
                 "owner": "vincode-io",
                 "repo": "Zavala",
                 "stars": 425
@@ -16137,7 +16137,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -16163,7 +16163,7 @@
                 "last_commit": "2021-04-19T20:38:27Z",
                 "owner": "jtsaeed",
                 "repo": "Hour-Blocks",
-                "stars": 182
+                "stars": 181
               }
             },
             {
@@ -16183,7 +16183,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -16328,7 +16328,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -16336,10 +16336,10 @@
                 "archived": false,
                 "id": 29028775,
                 "language": "C++",
-                "last_commit": "2026-08-26T12:51:27Z",
+                "last_commit": "2026-08-27T11:25:08Z",
                 "owner": "react",
                 "repo": "react-native",
-                "stars": 126409
+                "stars": 126426
               }
             },
             {
@@ -16359,7 +16359,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -16367,10 +16367,10 @@
                 "archived": false,
                 "id": 15225670,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T13:07:05Z",
+                "last_commit": "2026-08-26T22:24:47Z",
                 "owner": "jitsi",
                 "repo": "jitsi-meet",
-                "stars": 29811
+                "stars": 29822
               }
             },
             {
@@ -16397,7 +16397,7 @@
                 "archived": false,
                 "id": 29099181,
                 "language": "Go",
-                "last_commit": "2026-08-26T13:36:25Z",
+                "last_commit": "2026-08-26T22:16:45Z",
                 "owner": "keybase",
                 "repo": "client",
                 "stars": 9242
@@ -16420,7 +16420,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -16458,10 +16458,10 @@
                 "archived": false,
                 "id": 176777353,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T13:27:03Z",
+                "last_commit": "2026-08-26T22:06:42Z",
                 "owner": "rainbow-me",
                 "repo": "rainbow",
-                "stars": 4383
+                "stars": 4384
               }
             },
             {
@@ -16481,7 +16481,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -16489,7 +16489,7 @@
                 "archived": false,
                 "id": 29702213,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T13:05:14Z",
+                "last_commit": "2026-08-27T10:17:17Z",
                 "owner": "artsy",
                 "repo": "eigen",
                 "stars": 3775
@@ -16504,7 +16504,7 @@
                 "archived": false,
                 "id": 70265724,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T12:17:42Z",
+                "last_commit": "2026-08-27T11:55:37Z",
                 "owner": "mattermost",
                 "repo": "mattermost-mobile",
                 "stars": 2713
@@ -16519,10 +16519,10 @@
                 "archived": false,
                 "id": 539619974,
                 "language": "Dart",
-                "last_commit": "2026-08-26T13:20:53Z",
+                "last_commit": "2026-08-27T11:56:01Z",
                 "owner": "simonoppowa",
                 "repo": "OpenNutriTracker",
-                "stars": 2405
+                "stars": 2411
               }
             },
             {
@@ -16618,7 +16618,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -16649,7 +16649,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -16660,7 +16660,7 @@
                 "last_commit": "2026-08-25T12:53:10Z",
                 "owner": "chatwoot",
                 "repo": "chatwoot-mobile-app",
-                "stars": 1028
+                "stars": 1030
               }
             },
             {
@@ -16726,7 +16726,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -16757,7 +16757,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -16803,7 +16803,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -16856,7 +16856,7 @@
                 "archived": false,
                 "id": 115314284,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T19:34:32Z",
+                "last_commit": "2026-08-27T00:42:39Z",
                 "owner": "chrisheninger",
                 "repo": "matchimals.fun",
                 "stars": 194
@@ -16874,7 +16874,7 @@
                 "last_commit": "2026-03-31T09:10:56Z",
                 "owner": "inaturalist",
                 "repo": "INaturalistIOS",
-                "stars": 184
+                "stars": 185
               }
             },
             {
@@ -17047,7 +17047,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ]
@@ -17305,7 +17305,7 @@
                 "last_commit": "2026-08-22T19:49:31Z",
                 "owner": "zzanehip",
                 "repo": "The-OldOS-Project",
-                "stars": 3511
+                "stars": 3514
               }
             },
             {
@@ -17350,7 +17350,7 @@
                 "last_commit": "2025-05-25T15:20:09Z",
                 "owner": "jordibruin",
                 "repo": "Swift-Charts-Examples",
-                "stars": 2447
+                "stars": 2450
               }
             },
             {
@@ -17431,7 +17431,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -17454,10 +17454,10 @@
                 "archived": false,
                 "id": 177906917,
                 "language": "Swift",
-                "last_commit": "2026-08-25T20:38:57Z",
+                "last_commit": "2026-08-27T02:53:31Z",
                 "owner": "migueldeicaza",
                 "repo": "SwiftTerm",
-                "stars": 1667
+                "stars": 1670
               }
             },
             {
@@ -17515,7 +17515,7 @@
                 "archived": false,
                 "id": 222286745,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-25T18:06:32Z",
+                "last_commit": "2026-08-26T19:18:07Z",
                 "owner": "joreilly",
                 "repo": "BikeShare",
                 "stars": 828
@@ -17645,7 +17645,7 @@
                     "last_commit": "2025-07-20T10:33:29Z",
                     "owner": "jasudev",
                     "repo": "FabulaItemsProvider",
-                    "stars": 722
+                    "stars": 723
                   }
                 }
               ],
@@ -17656,7 +17656,7 @@
                 "last_commit": "2025-07-20T10:33:29Z",
                 "owner": "jasudev",
                 "repo": "FabulaItemsProvider",
-                "stars": 722
+                "stars": 723
               }
             },
             {
@@ -18122,7 +18122,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -18274,7 +18274,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -18300,7 +18300,7 @@
                 "last_commit": "2021-04-19T20:38:27Z",
                 "owner": "jtsaeed",
                 "repo": "Hour-Blocks",
-                "stars": 182
+                "stars": 181
               }
             },
             {
@@ -18320,7 +18320,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -18610,7 +18610,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -18679,7 +18679,7 @@
                 "archived": false,
                 "id": 518728775,
                 "language": "Swift",
-                "last_commit": "2026-05-12T08:44:11Z",
+                "last_commit": "2026-08-27T01:18:36Z",
                 "owner": "Livinglist",
                 "repo": "Gem",
                 "stars": 86
@@ -18840,7 +18840,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -18886,7 +18886,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -19009,7 +19009,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -19345,7 +19345,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -19361,21 +19361,6 @@
             },
             {
               "node_type": "item",
-              "title": "Tap It",
-              "description": "Share social media info by putting a phone on top of another",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 295240477,
-                "language": "Swift",
-                "last_commit": "2023-08-03T14:25:57Z",
-                "owner": "nikitamounier",
-                "repo": "tapit-app",
-                "stars": 34
-              }
-            },
-            {
-              "node_type": "item",
               "title": "SwiftUI-Keyboard-Demo",
               "description": "How to add Keyboard Shortcuts UIKeyCommand (SwiftUI)",
               "children": [],
@@ -19386,6 +19371,21 @@
                 "last_commit": "2020-05-08T17:36:21Z",
                 "owner": "emcro",
                 "repo": "SwiftUI-Keyboard-Demo",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tap It",
+              "description": "Share social media info by putting a phone on top of another",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 295240477,
+                "language": "Swift",
+                "last_commit": "2023-08-03T14:25:57Z",
+                "owner": "nikitamounier",
+                "repo": "tapit-app",
                 "stars": 33
               }
             },
@@ -19529,7 +19529,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -19635,7 +19635,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -19757,7 +19757,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -19788,7 +19788,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -20154,7 +20154,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ]
@@ -20176,7 +20176,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ]
@@ -20220,7 +20220,7 @@
                     "last_commit": "2026-08-26T12:19:19Z",
                     "owner": "dkhamsing",
                     "repo": "open-source-ios-apps",
-                    "stars": 51851
+                    "stars": 51865
                   }
                 }
               ],
@@ -20294,7 +20294,7 @@
             "last_commit": "2026-08-26T12:19:19Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51851
+            "stars": 51865
           }
         },
         {
@@ -20309,7 +20309,7 @@
             "last_commit": "2026-08-26T12:19:19Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51851
+            "stars": 51865
           }
         },
         {
@@ -20324,7 +20324,7 @@
             "last_commit": "2026-08-26T12:19:19Z",
             "owner": "dkhamsing",
             "repo": "open-source-ios-apps",
-            "stars": 51851
+            "stars": 51865
           }
         },
         {
@@ -20351,10 +20351,10 @@
             "archived": false,
             "id": 32374513,
             "language": "Python",
-            "last_commit": "2026-08-26T00:24:30Z",
+            "last_commit": "2026-08-27T01:55:54Z",
             "owner": "pcqpcq",
             "repo": "open-source-android-apps",
-            "stars": 10462
+            "stars": 10465
           }
         },
         {
@@ -20369,7 +20369,7 @@
             "last_commit": "2024-05-09T12:55:22Z",
             "owner": "olucurious",
             "repo": "Awesome-ARKit",
-            "stars": 7988
+            "stars": 7987
           }
         }
       ],
@@ -20377,9 +20377,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T13:38:29.810Z",
-    "original_repository": "dkhamsing/open-source-ios-apps",
-    "original_repository_id": 29887499,
+    "last_updated": "2026-08-27T11:57:16.507Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 29887499,
+      "language": null,
+      "last_commit": "2026-08-26T12:19:19Z",
+      "owner": "dkhamsing",
+      "repo": "open-source-ios-apps",
+      "stars": 51865
+    },
     "original_repository_sha": "47709d6f985a3110d0d723577185d70ee4c439f3",
     "enhanced_repository": "enhansome/enhansome-open-source-ios-apps",
     "enhanced_repository_description": null,
